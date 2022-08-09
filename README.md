@@ -51,7 +51,3 @@
 [第十八章 以太坊标准](第十八章.asciidoc)
 
 [第十九章 以太坊分叉历史](第十九章.asciidoc)
-
-
-### 打赏
-![](images/thanks.jpeg)
