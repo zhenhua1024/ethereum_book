@@ -273,5 +273,3 @@ image::images/web3suite.png[]
 你将了解以太坊的工作方式，以及为什么这样设计。你将能够理解每个组成部分的工作方式，它们如何组合在一起以及为什么。
 
 <<第二章#,下一章：以太坊基础>>
-
-image::images/thanks.jpeg["赞赏译者",height=400,align="center"]
